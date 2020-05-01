@@ -27,4 +27,4 @@ def word_print(string):
         print("The word does not exist.\nPlease try again.")
 
 
-word_print(word.casefold())
+word_print(word.casefold() )
